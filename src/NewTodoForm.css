@@ -1,0 +1,11 @@
+.NewTodoForm > * {
+    margin: 0 5px;
+    height: 35px;
+}
+
+.NewTodoForm > button{
+    background-color: rgba(255, 255, 255, 0.507);
+    border-radius: 10px;
+    padding: 0 15px;
+    font-size: 1rem;
+}

@@ -1,0 +1,8 @@
+.Todo{
+    text-align: start;
+    margin: 10px 20px;
+}
+.Todo > *{
+    display: inline;
+    margin: 5px;
+}
